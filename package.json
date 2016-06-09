@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/francoisdillinger/ExpressBasics#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-beta2"
   }
 }
